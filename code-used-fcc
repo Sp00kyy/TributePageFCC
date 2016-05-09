@@ -1,0 +1,62 @@
+<html lang="en">
+<head>
+  <title>Soren Bjerg</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<style>
+.bg-1 { 
+    background-color: #CD5C5C; /* Indiana Red */
+    color: #ffffff;
+}
+.bg-2 { 
+    background-color: #5DADE2; /* Light Blue */
+    color: #ffffff;
+}
+.bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+ }
+ .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+</style>
+
+</head>
+<body>
+<div class="container-fluid bg-1 text-center">
+  <h3>Soren <em>'Bjergsen'</em> Bjerg</h3>
+  <img src="http://hydra-media.cursecdn.com/lol.gamepedia.com/2/24/Bjergsen.jpg" class="img-circle" alt="TSM">
+  <h3>Mid laner for Team SoloMid</h3>
+</div>
+  
+<div class="container-fluid bg-2 text-center">
+  <h3>About Soren <em>'Bjergsen'</em> Bjerg</h3>
+  <li><strong>Bjergsen started his career in June 2012 where he played for Team LDLC.</li>
+  <li>In October 2012 he joined the team 'Copenhagan Wolves' who were then rebranded to 'Ninjas in Pyjamas' in May 2013.</li>
+  <li>He stayed with Ninjas in Pyjamas until November 2013.</li>
+  <li>Bjergsen is now currently the mid laner for Team SoloMid.</strong></li>
+ 
+  <a href='http://lol.gamepedia.com/Bjergsen#Team' class="btn btn-default btn-lg">
+    <span class="glyphicon glyphicon-search"></span>
+    Find out more here</a>
+</div>  
+
+<div class="container-fluid bg-3 text-center">
+  <h3>Notable Achievements</h3>
+  <li><strong>17/04/2016</strong> NA LCS Spring Playoffs - TSM 2nd Place</li>
+  <li><strong>06/03/2016</strong> IEM X World Championship - TSM Semifinalist</li>
+  <li><strong>09/04/2015</strong> NA LCS Spring - Split MVP</li>
+  <li><strong>01/09/2014</strong> NA LCS Summer - Playoffs MVP</li>
+  <li><strong>06/04/2014</strong> NA LCS Spring - Split MVP</li>
+  
+ <footer class="text-center">
+    <hr>
+    <p>Written and coded by <a href="https://www.freecodecamp.com/sp00kyy" target="https://github.com/Sp00kyy">Ryan McHugh</a>.</p>
+  </footer>   
+</body>
+</html>
